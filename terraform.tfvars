@@ -1,0 +1,5 @@
+region = "us-west-2"
+ami = "ami-02b92c281a4d3dc79"
+keypair = "test"
+instance-type = "t2.nano"
+name = "Devops"
